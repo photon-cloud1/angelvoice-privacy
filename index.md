@@ -28,7 +28,8 @@ We do not share data with third parties.
 Data is stored on-device and protected by the device's security features. No network transmission occurs.
 
 ## Contact
-If you have questions about this policy, contact:  
+If you have questions about this policy, contact:
+
 **Name:** Pat  
 **Email:** photon_cloud@proton.me
 
